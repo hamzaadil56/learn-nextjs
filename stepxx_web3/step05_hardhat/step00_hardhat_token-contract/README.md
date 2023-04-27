@@ -8,7 +8,8 @@ Hardhat is a development environment for building and testing smart contracts on
 
 Open a new terminal and run these commands to create a new folder:
 
-```mkdir hardhat-tutorial
+```
+mkdir hardhat-tutorial
 cd hardhat-tutorial
 npm init
 npm install --save-dev hardhat
