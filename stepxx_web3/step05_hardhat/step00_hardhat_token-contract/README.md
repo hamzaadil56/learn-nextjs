@@ -30,7 +30,8 @@ Paste the code from the repository in Token.sol file and take a minute to read t
 
 To compile the contract run npx hardhat compile in your terminal. The compile task is one of the built-in tasks.
 
-```npx hardhat compile
+```
+npx hardhat compile
 
 ```
 
@@ -44,13 +45,15 @@ Copy the code from Token.ts file which is located in this project's test directo
 
 In your terminal run:
 
-```npx hardhat test
+```
+npx hardhat test
 
 ```
 
 You should see the following output:
 
-```Token contract
+```
+Token contract
     ✓ Deployment should assign the total supply of tokens to the owner (654ms)
 
 
