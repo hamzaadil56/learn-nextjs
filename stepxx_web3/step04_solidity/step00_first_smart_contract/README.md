@@ -27,7 +27,7 @@ Let's start by writing a simple smart contract that stores a string value in a v
 
 3.  Click the Compile button in the Compiler panel to compile the contract or hit Ctrl+S. You should see a green message indicating that the contract was successfully compiled.
 
-## ##Step 3: Deploying and Testing Your Smart Contract
+## Step 3: Deploying and Testing Your Smart Contract
 
 Now that we have written and compiled our smart contract, let's deploy it to the Ethereum network and test it. To do this, follow these steps:
 
