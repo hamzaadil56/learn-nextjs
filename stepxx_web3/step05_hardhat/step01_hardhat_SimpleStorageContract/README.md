@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# SimpleStorage Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project will teach you how to compile,deploy and test smart contracts. Check out [this repository in which we build SimpleStorage Contract using Remix IDE.](https://github.com/hamzaadil56/learn-nextjs/tree/main/stepxx_web3/step04_solidity/step00_first_smart_contract)
 
 Try running some of the following tasks:
 
