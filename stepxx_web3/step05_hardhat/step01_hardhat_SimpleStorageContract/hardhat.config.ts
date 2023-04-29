@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import "@typechain/hardhat";
 import "hardhat-gas-reporter";
 import "solidity-coverage";
+import "./tasks/block-number.ts";
 
 dotenv.config();
 
@@ -19,6 +20,10 @@ const config: HardhatUserConfig = {
       url: SEPOLIA_RPC_URL,
       accounts: [PRIVATE_KEY],
       chainId: 11155111,
+    },
+    localhost: {
+      url: "http://localhost:8545",
+      chainId: 31337,
     },
   },
   etherscan: {
