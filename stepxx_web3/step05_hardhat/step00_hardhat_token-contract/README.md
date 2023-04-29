@@ -2,7 +2,7 @@
 
 Hardhat is a development environment for building and testing smart contracts on the Ethereum blockchain. It provides a set of tools and libraries that make it easy for developers to write, deploy, and test their smart contracts.
 
-[Read this documentation to setup your development environment according to your OS.](https://github.com/hamzaadil56/learn-nextjs/tree/main/stepxx_web3/step04_solidity/step00_first_smart_contract)
+[Read this documentation to setup your development environment according to your OS.](https://hardhat.org/tutorial/setting-up-the-environment)
 
 ## Create a new project
 
